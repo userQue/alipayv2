@@ -1,17 +1,6 @@
 AliPay SDK for Golang
-
-
-## 鸣谢
-
-感谢下列人员对本项目的支持：
-
-[@wusphinx](https://github.com/wusphinx)
-
-[@clearluo](https://github.com/clearluo)
-
-[@zwh8800](https://github.com/zwh8800) 
-
-## 帮助
+Forked from smartwalle/alipay
+根据项目需要做了一些修改。原文来自github.com/smartwalle/alipay
 
 在集成的过程中有遇到问题，欢迎加 QQ 群 564704807 讨论。
 
